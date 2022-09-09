@@ -1,0 +1,5 @@
+---
+applications:
+  - name: test
+    random-route: true
+    memory: 256M
